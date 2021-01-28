@@ -76,3 +76,33 @@ height: 300px;
     left: 475px;
     bottom: 38px;
  }
+ .left{
+     width: 400px;
+     float: left;
+ }
+ .left h2{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: green;
+     font-size: 25px;
+     font-weight: normal;
+ }
+ .left a{
+     float: left;
+     text-decoration: none;
+     color: green;
+     text-align: right;
+     width: 100%;
+     border-bottom: 2px solid #ececec;
+     padding-bottom: 5px;
+     margin-bottom: 20px;
+ }
+ .left img{
+     margin: 10px 0;
+ }
+ .bor{
+    border-bottom: 2px solid #ececec;
+    padding-bottom: 20px;
+ }
+ .nostyle{
+     border: none !important;
+ }
