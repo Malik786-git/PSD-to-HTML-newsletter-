@@ -106,3 +106,14 @@ height: 300px;
  .nostyle{
      border: none !important;
  }
+ .right{
+     width: 204px;
+     float: right;
+ }
+ .right h2{
+     background-color: green;
+     color: white;
+     font-size: 23px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     padding: 7px;
+ }
